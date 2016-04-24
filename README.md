@@ -1,6 +1,7 @@
 # hexo-filter-pathfix
 
-using absolute path for assets in posts
+using absolute path for assets in posts. 
+enabling hexo `post_asset_folder` only makes the relative asset path work in post page, while in other page like index,category and tag the path will broken.
 
 [![build status](https://secure.travis-ci.org/wayou/hexo-filter-pathfix.svg)](http://travis-ci.org/wayou/hexo-filter-pathfix)
 [![dependency status](https://david-dm.org/wayou/hexo-filter-pathfix.svg)](https://david-dm.org/wayou/hexo-filter-pathfix)
