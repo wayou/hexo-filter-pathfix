@@ -1,7 +1,7 @@
 {
   "name": "hexo-filter-pathfix",
   "description": "using absolute path for assets",
-  "version": "0.0.0",
+  "version": "0.1.1",
   "dependencies": {},
   "scripts": {
     "lint": "eslint -f unix .",
