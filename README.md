@@ -8,7 +8,7 @@ using absolute path for assets in posts
 ## Installation
 
 ```
-npm install --save hexo-filter-pathfix --save
+npm install --save hexo-filter-pathfix
 ```
 
 ## Usage
